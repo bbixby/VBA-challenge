@@ -1,9 +1,9 @@
 'Create a script that will loop through all the stocks for one year and output the following information
 'The ticker symbol: Column A (1)
 'Yearly change from opening price at the beginning of a given year to the closing price at the end of that year
-'--Open price Column C (3); Close Price Column F (6)
+'--Open price Column C (3) from first appearance of ticker; Close Price Column F (6) from last appearance of ticker
 'The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
-'--Calculate Close/Open - 1 as percent
+'--Calculation Close/Open - 1; format as percent
 'The total stock volume of the stock.
 '--Sum Column G (7)
 
