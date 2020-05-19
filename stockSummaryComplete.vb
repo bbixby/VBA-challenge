@@ -7,7 +7,7 @@
 'The total stock volume of the stock.
 '--Sum Column G (7)
 
-Sub StockSummaryTest()
+Sub StockSummary()
 
 ' --------------------------------------------
 ' LOOP THROUGH ALL SHEETS
